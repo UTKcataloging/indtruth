@@ -5,4 +5,5 @@ Metadata remediation for Independent Truth (3 records) during 2019 spring semest
 
 ```
 |-- cleaned_data
+    |-- collection_record.xml
     |-- modsxml
